@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Discord Town's site!
+*Well, at least what we have for now.*
 
-You can use the [editor on GitHub](https://github.com/DiscordTown/discordtown.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are currently working on making the bot work in individual channels with host permissions and full permission control for server owners.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are aware of the fact that it is taking longer than we'd hoped, but we are determined to release our version of the game.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiscordTown/discordtown.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can join us in our home server [here](#)
