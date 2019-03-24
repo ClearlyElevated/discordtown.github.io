@@ -1,16 +1,10 @@
 * {
-        font-family: Arial, Helvetica, sans-serif
-    }
-.img{
-	margin-left: 40%;
-}
-.main{
-	margin-left: 44%;
-}
-.links{
-	margin-left: 36%;
+	color: #ffffff;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif
 }
 ul{
+	margin-left: -40px;
 	list-style-type: none;
 }
 .links li {
@@ -18,7 +12,6 @@ ul{
 }
 .links li a{
 		text-decoration: none;
-		color: #ffffff;
 		transition: 0.5s;
 		padding: 5px;
 		border-radius: 6px;
