@@ -101,6 +101,32 @@
 	font-size: 25px;
 }
 
+.news ul{
+	display: inline;
+	list-style-type: none;
+}
+
+.news li{
+	background-color: #c1c1c1;
+	border-radius: 10px;
+	margin: 5px;
+	padding:10px;
+}
+
+.news a{
+	text-decoration: none;
+	transition: 0.7s;
+	padding: 5px;
+}
+
+.news a:hover{
+	color: #6F85D6;
+	transition: 0.7s;
+	background-color: #ffffff;
+	border-radius: 5px;
+}
+
+
 body{ 
 	background-color: #6F85D6;
 }
